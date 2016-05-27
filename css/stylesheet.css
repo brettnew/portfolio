@@ -6,6 +6,7 @@ body{
 }
 h1{
   text-align: center;
+  font-size: 70px;
 }
 img{
   height: 400px;
@@ -51,5 +52,15 @@ li{
 .even img{
   height: 300px;
   width: 350px;
-
+}
+#page-footer{
+  background: #6C1F3E;
+  width: 100%;
+  height: 50px;
+  position: static;
+  bottom: 0;
+  left: 0;
+}
+#page-footer p{
+  color: #F9F6E9;
 }
