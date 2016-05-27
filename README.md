@@ -12,6 +12,7 @@ _This website gives information about me and my portfolio_
 
 * _Clone this repository._
 * _Open HTML file._
+*_Website is http://brettnew.github.io/portfolio/_*
 
 
 ## Known Bugs
