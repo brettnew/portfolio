@@ -1,6 +1,9 @@
 body{
   background-color: #F9F6E9;
 }
+.crazy{
+  font-weight: bolder;
+}
 h1{
   text-align: center;
 }
@@ -13,11 +16,12 @@ img{
   border-color: #6C1F3E;
   float:right;
 }
-
 .jumbotron{
+  background-color: #5FA9C5;
+}
+.work{
   background-color: #C6EAF1;
 }
-.sidebar{
-  float: right;
-
+.intro{
+  background-color: #C6EAF1;
 }
