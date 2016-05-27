@@ -48,3 +48,8 @@ p{
 li{
   font-size:18px;
 }
+.even img{
+  height: 300px;
+  width: 350px;
+
+}
