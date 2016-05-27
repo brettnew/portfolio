@@ -1,8 +1,13 @@
 body{
   background-color: #F9F6E9;
 }
-.crazy{
+.language{
   font-weight: bolder;
+  color: #F92A3B;
+}
+.language2{
+  font-weight: bolder;
+  color: #6C1F3E;
 }
 h1{
   text-align: center;
@@ -14,14 +19,28 @@ img{
   border: 5px;
   border-style: solid;
   border-color: #6C1F3E;
-  float:right;
 }
 .jumbotron{
   background-color: #5FA9C5;
+  padding: 20px;
 }
 .work{
   background-color: #C6EAF1;
 }
 .intro{
   background-color: #C6EAF1;
+}
+.sidebar{
+  background-color: #F92A3B;
+  float:right;
+  top: 0;
+}
+h3{
+  font-size: 30px;
+}
+p{
+  font-size: 18px;
+}
+li{
+  font-size:18px;
 }
