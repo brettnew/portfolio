@@ -1,14 +1,14 @@
-*{
+* {
   box-sizing: border-box;
 }
-body{
+body {
   background-color: #F9F6E9;
 }
-h1{
+h1 {
   text-align: center;
   font-size: 70px;
 }
-img{
+img {
   height: 400px;
   margin-left:10%
   margin: 10px;
@@ -17,20 +17,20 @@ img{
   border-style: solid;
   border-color: #6C1F3E;
 }
-.jumbotron{
+.jumbotron {
   background-color: #5FA9C5;
   padding: 20px;
 }
-.work{
+.work {
   background-color: #C6EAF1;
 }
-.intro{
+.intro {
   background-color: #C6EAF1;
 }
-.education{
+.education {
   background-color: #C6EAF1;
 }
-.sidebar{
+.sidebar {
   background-color: #F92A3B;
   float:left;
   width: 200px;
@@ -40,20 +40,20 @@ img{
   bottom: 0;
   left: 0;
 }
-h3{
+h3 {
   font-size: 30px;
 }
-p{
+p {
   font-size: 18px;
 }
-li{
+li {
   font-size:18px;
 }
-.even img{
+.even img {
   height: 300px;
   width: 350px;
 }
-#page-footer{
+#page-footer {
   background: #6C1F3E;
   width: 100%;
   height: 50px;
@@ -61,6 +61,6 @@ li{
   bottom: 0;
   left: 0;
 }
-#page-footer p{
+#page-footer p {
   color: #F9F6E9;
 }
