@@ -7,7 +7,7 @@
 ## Description
 
 _This website gives information about me and my portfolio_
-_See it here at_ https://github.com/brettnew/portfolio:
+_See it here at_ http://brettnew.github.io/portfolio/
 
 ## Setup/Installation Requirements
 
